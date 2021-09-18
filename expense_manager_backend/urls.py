@@ -23,7 +23,7 @@ from django.conf.urls.static import static
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="Expense Manager Backend API",
+      title="Expense Manager API",
       default_version='v1',
       description="This is Expense Manager API",
       terms_of_service="https://www.google.com/policies/terms/",
